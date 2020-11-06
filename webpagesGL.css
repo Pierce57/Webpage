@@ -1,9 +1,9 @@
 /*
- *Name: [First Last]
- *UnityID: [unityID]
- *Date: [Date Completed]
- *Assignment: [Assignment Name]
- *Description: [Assignment Description]
+ *Name: Pierce Whelan
+ *UnityID: pwwhelan
+ *Date: 11/05/2020
+ *Assignment: Webpages GL
+ *Description: Guided lab assignment, about me webpage
  */
  
 p {
@@ -12,10 +12,11 @@ p {
 	color: #FFFFFF;
 }
 
-.class {
-    property: value;
+.table-border {
+    border: 1px solid #FFFFFF;
 }
 
-#id {
-    property:value;
+#photo-resize {
+    max-width: 250px;
+	max-height: 300px;
 }
