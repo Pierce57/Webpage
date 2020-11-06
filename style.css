@@ -1,19 +1,21 @@
 /*
- *Name: [First Last]
- *UnityID: [unityID]
- *Date: [Date Completed]
- *Assignment: [Assignment Name]
- *Description: [Assignment Description]
+ *Name: Pierce Whelan
+ *UnityID: pwwhelan
+ *Date: 11/06/2020
+ *Assignment: IA 5
+ *Description: Independent Assignment (HTML and Styling)
  */
  
-p {
-    property: value;
+body {
+    background-color: #CC0000;
 }
 
-.class {
-    property: value;
+.photo-border{
+    border: 2px outset #00FF00;
+	max-width: 200px;
+	max-height: 250px;
 }
 
-#id {
-    property:value;
+#table-border {
+    border: 1px solid #FFFF00;
 }
